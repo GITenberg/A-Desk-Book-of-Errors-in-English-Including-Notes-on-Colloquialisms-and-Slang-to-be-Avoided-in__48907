@@ -1,10 +1,16 @@
 _repo: A-Desk-Book-of-Errors-in-English-Including-Notes-on-Colloquialisms-and-Slang-to-be-Avoided-in__48907
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48907-h/images/cover.jpg
 creator:
   author:
     agent_name: Vizetelly, Frank H.
     gutenberg_agent_id: '45036'
     url: http://www.gutenberg.org/2009/agents/45036
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48907#A-Desk-Book-of-Errors-in-English-Including-Notes-on-Colloquialisms-and-Slang-to-be-Avoided-in_
 gutenberg_issued: '2015-05-09'
 gutenberg_type: Text
 identifiers:
